@@ -25,4 +25,4 @@ server:
   port: 8083
 girl:
   name: lisi
-  age: 32
+  age: 22
