@@ -2,10 +2,11 @@ spring:
   rabbitmq: # MQ配置
     host: 192.168.117.128
     port: 5672
-    username: zhou
-    password: zhou
+    username: zhou01
+    password: zhou01
+    virtual-host: /leyou
   application:
-    name: 123456
+    name: config-client
   jpa:
     show-sql: true
     hibernate:
