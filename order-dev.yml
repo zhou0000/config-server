@@ -6,7 +6,7 @@ spring:
     password: zhou01
     virtual-host: /leyou
   application:
-    name: config-client
+    name: client
   jpa:
     show-sql: true
     hibernate:
